@@ -17,7 +17,7 @@ Currently focused on **Java, Spring Boot, React, TypeScript, Angular, Next.js, R
 
 ## Current Focus
 
-- Building production-grade full-stack and backend systems
+- Building production-grade full-stack applications
 - Designing resilient microservices and distributed workflows
 - Applying AI/LLMs to developer and enterprise workflows
 - Exploring cloud, MLOps and modern AI platform architecture
@@ -37,8 +37,8 @@ My GitHub contains projects and experiments covering:
 ## Connect
 
 - **Portfolio:** https://aaqibhafeezkhan.github.io/aaqibhafeezkhan.cv
-- **LinkedIn:** https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/
+- **LinkedIn:** https://www.linkedin.com/in/aaqibhafeezkhan/
 - **Email:** aaqibhafeezkhan@gmail.com
 - **GitHub:** https://github.com/Aaqibhafeezkhan
 
-> Senior full-stack engineer with a backend-oriented mindset, focused on building reliable systems and increasingly working at the intersection of software engineering, cloud and AI.
+> Full-stack engineer focused on building reliable systems across frontend, backend, cloud and AI.
