@@ -41,4 +41,6 @@ My GitHub contains projects and experiments covering:
 - **Email:** aaqibhafeezkhan@gmail.com
 - **GitHub:** https://github.com/Aaqibhafeezkhan
 
+[Open-source contributions](https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions)
+
 > Full-stack engineer focused on building reliable systems across frontend, backend, cloud and AI.
