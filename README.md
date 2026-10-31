@@ -44,12 +44,12 @@ My GitHub contains projects and experiments covering:
 
 A selection of projects that demonstrate different parts of my engineering work:
 
-- **[Books API](https://github.com/Aaqibhafeezkhan/Books-API)** — A Spring Boot 3 service for book discovery through the Open Library API, with title/author/subject/ISBN filtering, pagination, Caffeine caching, OpenAPI documentation and Docker deployment.
-- **[CMS Microfrontend Platform](https://github.com/Aaqibhafeezkhan/CMS-Microfrontend)** — A multi-framework CMS architecture bringing Angular, React, Svelte and Vue applications together through single-spa, SystemJS and import maps, with independently developed frontend modules.
-- **[DeenTime](https://github.com/Aaqibhafeezkhan/DeenTime)** — A local-first Islamic PWA with configurable prayer calculations, Hanafi Asr settings, timezone-aware prayer countdowns, Qibla support, Hijri calendar, Tasbih and offline caching.
-- **[DeHTML Studio](https://github.com/Aaqibhafeezkhan/DeHTML)** — A React and Vite developer toolkit for HTML stripping, entity encoding/decoding, formatting, minification, text/code comparison and sandboxed live previews.
-- **[Indian Parliament Explorer](https://github.com/Aaqibhafeezkhan/IndianParliamentInfographic)** — A civic-data explorer that loads Lok Sabha and Rajya Sabha member information from official Digital Sansad sources, with search, filters, member comparisons, representation analytics and CSV export.
-- **[Anti-Doomscroll Journal](https://github.com/Aaqibhafeezkhan/Anti-Doomscroll-SDK)** — A React Native digital-wellbeing app combining native screen-time monitoring, guided gratitude interventions, streaks, usage insights and on-device SQLite storage.
+- **[Books API](https://github.com/Aaqibhafeezkhan/Books-API)** - A Spring Boot 3 service for book discovery through the Open Library API, with title/author/subject/ISBN filtering, pagination, Caffeine caching, OpenAPI documentation and Docker deployment.
+- **[CMS Microfrontend Platform](https://github.com/Aaqibhafeezkhan/CMS-Microfrontend)** - A multi-framework CMS architecture bringing Angular, React, Svelte and Vue applications together through single-spa, SystemJS and import maps, with independently developed frontend modules.
+- **[DeenTime](https://github.com/Aaqibhafeezkhan/DeenTime)** - A local-first Islamic PWA with configurable prayer calculations, Hanafi Asr settings, timezone-aware prayer countdowns, Qibla support, Hijri calendar, Tasbih and offline caching.
+- **[DeHTML Studio](https://github.com/Aaqibhafeezkhan/DeHTML)** - A React and Vite developer toolkit for HTML stripping, entity encoding/decoding, formatting, minification, text/code comparison and sandboxed live previews.
+- **[Indian Parliament Explorer](https://github.com/Aaqibhafeezkhan/IndianParliamentInfographic)** - A civic-data explorer that loads Lok Sabha and Rajya Sabha member information from official Digital Sansad sources, with search, filters, member comparisons, representation analytics and CSV export.
+- **[Anti-Doomscroll Journal](https://github.com/Aaqibhafeezkhan/Anti-Doomscroll-SDK)** - A React Native digital-wellbeing app combining native screen-time monitoring, guided gratitude interventions, streaks, usage insights and on-device SQLite storage.
 
 ## Open Source
 
@@ -57,7 +57,7 @@ I contribute to open-source projects across different ecosystems and maintain a 
 
 ## Currently Exploring
 
-Reliable AI integrations, agentic systems, cloud architecture, and developer tools — especially where they can make existing engineering and operational workflows better.
+Reliable AI integrations, agentic systems, cloud architecture, and developer tools - especially where they can make existing engineering and operational workflows better.
 
 ## Connect
 
