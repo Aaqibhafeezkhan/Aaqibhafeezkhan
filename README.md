@@ -53,7 +53,13 @@ A selection of projects that demonstrate different parts of my engineering work:
 
 ## Open Source
 
-I contribute to open-source projects across different ecosystems and maintain a public record of that work in the **[Aaqib OSS Contributions tracker](https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions)**.
+I contribute to open-source projects across different ecosystems and keep a public record of that work.
+
+<p align="center">
+  <a href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions">
+    <img src="https://img.shields.io/badge/Explore-Open_Source_Contributions-2F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore open-source contributions" />
+  </a>
+</p>
 
 ## Currently Exploring
 
@@ -65,7 +71,5 @@ Reliable AI integrations, agentic systems, cloud architecture, and developer too
 - **LinkedIn:** https://www.linkedin.com/in/aaqibhafeezkhan/
 - **Email:** aaqibhafeezkhan@gmail.com
 - **GitHub:** https://github.com/Aaqibhafeezkhan
-
-<b>[Open-source contributions](https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions)</b>
 
 > Full-stack engineer focused on building reliable systems across frontend, backend, cloud and AI.
