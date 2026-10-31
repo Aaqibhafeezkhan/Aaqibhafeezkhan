@@ -4,7 +4,7 @@
 
 I build scalable, reliable and user-focused applications across fintech, telecommunications, e-commerce and enterprise platforms.
 
-With 7+ years of experience, I work across backend services, APIs, distributed systems and modern web applications. My recent work also includes AI-assisted enterprise automation and AIOps workflows using Azure AI Foundry, Azure OpenAI, LLM integrations and ServiceNow.
+With 8+ years of experience, I specialize in building enterprise-grade applications and backend systems across fintech, telecommunications, e-commerce and logistics. My experience spans Java and Spring Boot microservices, modern frontend architectures, API development, distributed systems and AI-powered enterprise automation.
 
 Currently focused on **Java, Spring Boot, React, TypeScript, Angular, Next.js, REST APIs, GraphQL, microservices, cloud platforms and AI-assisted engineering**.
 
