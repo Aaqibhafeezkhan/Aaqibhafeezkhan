@@ -1,48 +1,85 @@
 # Aaqibhafeez Khan
 
-**Senior Software Engineer | Full Stack Developer**
+**Senior Software Engineer · Full-Stack Engineering · Backend Systems · Applied AI**
 
-I build scalable, reliable and user-focused applications across fintech, telecommunications, e-commerce and enterprise platforms.
+I build dependable software across the full stack, from backend services and APIs to responsive product interfaces and AI-enabled enterprise workflows.
 
-With 8+ years of experience, I specialize in building enterprise-grade applications and backend systems across fintech, telecommunications, e-commerce and logistics. My experience spans Java and Spring Boot microservices, modern frontend architectures, API development, distributed systems and AI-powered enterprise automation.
+My experience spans fintech, telecommunications, e-commerce and enterprise platforms. I work primarily with **Java, Spring Boot, React, TypeScript, Angular and Next.js**, with a strong focus on API design, microservices, distributed workflows, maintainable architecture and practical engineering outcomes.
 
-Currently focused on **Java, Spring Boot, React, TypeScript, Angular, Next.js, REST APIs, GraphQL, microservices, cloud platforms and AI-assisted engineering**.
+I enjoy taking complex business and operational requirements and turning them into systems that are understandable, reliable and useful to the people who depend on them.
 
-## Core Expertise
+[Portfolio](https://aaqibhafeezkhan.github.io/aaqibhafeezkhan.cv/extended-cv/) · [LinkedIn](https://www.linkedin.com/in/aaqibhafeezkhan/) · [GitHub](https://github.com/Aaqibhafeezkhan)
 
-- **Programming Languages:** Java, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
-- **Frontend Development:** React.js, Next.js, Angular, Redux, Microfrontends, Single-Page Applications (SPAs), Functional Components, Responsive Web Design, Reusable UI Components, Real-Time Dashboards
-- **Backend Development & APIs:** Java, Spring Boot, Node.js, Python, FastAPI, RESTful APIs, GraphQL, Microservices Architecture, API Design and Integration, Database Integration
-- **AI, LLMs & Automation:** Azure AI Foundry, Azure OpenAI, Gemini, CrewAI, LLM Integration and Orchestration, RAG, Agentic AI Workflows, AI-Assisted Engineering, AI-Powered Automation, Ticket Classification, Root-Cause Analysis Workflows
-- **Cloud & Enterprise Platforms:** Microsoft Azure, Amazon Web Services (AWS), Docker, SAP Hybris Cloud, ServiceNow Integrations
-- **Architecture, Security & Integration:** Distributed Systems, System Design, Multithreading, Caching Strategies, Fault-Tolerant Design, WebSockets, Real-Time Applications, Authentication and Authorization, Auth0, Okta, Keycloak
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis
-- **Development Tools & Practices:** Git, GitHub, Bitbucket, Maven, Gradle, Postman, Swagger/OpenAPI, Jira, Confluence, Visual Studio Code, IntelliJ IDEA, Agile, Scrum, Code Reviews, Debugging, Software Development Lifecycle (SDLC)
+---
 
-I care about dependable APIs, maintainable architecture, useful developer experiences, and software that solves real operational problems.
+## What I bring
 
-## Current Focus
+- **Full-stack product engineering:** Building user-facing applications alongside the APIs and services that power them.
+- **Backend and distributed systems:** Designing Spring Boot services, REST and GraphQL APIs, transaction-processing workflows and service integrations.
+- **Enterprise problem-solving:** Working across complex domains where reliability, traceability, security and maintainability matter.
+- **Applied AI engineering:** Integrating Azure AI Foundry, Azure OpenAI and LLM-powered capabilities into existing enterprise workflows.
+- **End-to-end ownership:** Moving between requirements, technical design, implementation, integration, debugging and ongoing improvement.
+- **Collaborative engineering:** Working with cross-functional teams, contributing to code reviews and building software that can be maintained by others.
 
-- Building production-grade full-stack applications
-- Designing resilient microservices and distributed workflows
-- Applying AI/LLMs to developer and enterprise workflows
-- Exploring cloud, MLOps and modern AI platform architecture
-- Contributing to open-source projects and developer tooling
+## Professional experience
 
-## Selected Work
+### Senior Software Engineer · Mphasis
+*April 2025 – Present*
 
-My GitHub contains projects and experiments covering:
+Working across enterprise engineering initiatives, including fintech transaction processing and AI-assisted IT service management.
 
-- Full-stack web applications
-- Java/Spring Boot services
-- React, Angular and Next.js applications
-- AI/LLM and agentic workflows
-- Developer tooling and technical references
-- Open-source experiments
+**Fintech and transaction-processing systems**
+- Develop backend capabilities using **Java and Spring Boot** for payment-processing and investment-banking workflows.
+- Work on microservice-based transaction flows, including payment processing and reconciliation-related use cases.
+- Design and integrate service APIs, including **GraphQL schemas**, to support downstream applications and data needs.
+- Build and enhance frontend experiences using **React and Next.js**, including trading and operational dashboards.
+- Apply engineering practices suited to systems that require dependable processing, clear service boundaries and maintainable integrations.
 
-## Featured Projects
+**AI-enabled IT service management**
+- Work on workflows that bring together **ServiceNow ticket ingestion, AI-assisted classification and operator-facing experiences**.
+- Explore LLM-powered support for ticket understanding, resolution guidance and root-cause investigation.
+- Integrate AI capabilities into existing enterprise processes, keeping the operational user and workflow central to the implementation.
 
-I maintain a dedicated catalogue of selected projects, with architecture notes, core capabilities, technology choices, engineering themes and links to each source repository.
+### Software Engineer · Tech Mahindra
+*July 2021 – March 2025*
+
+- Delivered full-stack software in enterprise environments, contributing across frontend development, backend services and system integrations.
+- Worked with modern JavaScript and TypeScript-based frontend technologies alongside API-driven application architectures.
+- Collaborated with engineering teams to implement features, resolve defects and evolve existing applications.
+
+### Software Engineer · RightBrain
+*December 2018 – July 2021*
+
+- Built and maintained web application features across frontend and backend layers.
+- Worked with JavaScript-based application development, API integrations and database-backed functionality.
+- Developed a foundation in practical software delivery, debugging and collaborative development.
+
+## Technical strengths
+
+| Area | Technologies and concepts |
+|---|---|
+| Languages | Java, JavaScript (ES6+), TypeScript, Python, SQL |
+| Backend | Spring Boot, Node.js, FastAPI, REST APIs, GraphQL, Microservices |
+| Frontend | React, Next.js, Angular, Redux, HTML5, CSS3, responsive UI |
+| AI and automation | Azure AI Foundry, Azure OpenAI, LLM integrations, RAG, agentic workflows, AI-assisted classification and resolution support |
+| Cloud and platforms | Microsoft Azure, AWS, Docker, ServiceNow integrations |
+| Data | PostgreSQL, MySQL, MongoDB, Redis, SQLite |
+| Architecture and integration | Distributed systems, API design, WebSockets, caching, authentication and authorization, real-time applications |
+| Engineering tools | Git, GitHub, Bitbucket, Maven, Gradle, Postman, Swagger/OpenAPI, Jira, Confluence |
+
+## Engineering interests
+
+I am particularly interested in the intersection of reliable software engineering and applied AI:
+
+- Building scalable backend services and well-designed APIs.
+- Improving the reliability and maintainability of distributed applications.
+- Bringing AI and LLM capabilities into real business workflows rather than isolated demos.
+- Designing useful developer tools and automation.
+- Exploring cloud-native architecture, MLOps and production AI systems.
+
+## Selected work
+
+I maintain a curated collection of projects that demonstrates my work across application engineering, backend development, AI experimentation and developer tooling.
 
 <p align="center">
   <a href="https://github.com/AAQIB-LOCAL/Aaqib-Projects">
@@ -50,9 +87,9 @@ I maintain a dedicated catalogue of selected projects, with architecture notes, 
   </a>
 </p>
 
-## Open Source
+## Open-source contributions
 
-I contribute to open-source projects across different ecosystems and keep a public record of that work.
+I contribute to projects across different repositories and ecosystems, with a focus on practical improvements, bug fixes, tests and developer experience. I value clear, focused changes that are easy for maintainers to understand and review.
 
 <p align="center">
   <a href="https://github.com/AAQIB-LOCAL/Aaqib-OSS-Contributions">
@@ -60,15 +97,17 @@ I contribute to open-source projects across different ecosystems and keep a publ
   </a>
 </p>
 
-## Currently Exploring
+## Let's connect
 
-Reliable AI integrations, agentic systems, cloud architecture, and developer tools - especially where they can make existing engineering and operational workflows better.
+I am interested in senior software engineering opportunities focused on **full-stack product development, backend/platform engineering and applied AI**.
 
-## Connect
+- **Portfolio:** [aaqibhafeezkhan.github.io](https://aaqibhafeezkhan.github.io/aaqibhafeezkhan.cv/extended-cv/)
+- **LinkedIn:** [linkedin.com/in/aaqibhafeezkhan](https://www.linkedin.com/in/aaqibhafeezkhan/)
+- **Email:** [aaqibhafeezkhan@gmail.com](mailto:aaqibhafeezkhan@gmail.com)
+- **GitHub:** [github.com/Aaqibhafeezkhan](https://github.com/Aaqibhafeezkhan)
 
-- **Portfolio:** https://aaqibhafeezkhan.github.io/aaqibhafeezkhan.cv
-- **LinkedIn:** https://www.linkedin.com/in/aaqibhafeezkhan/
-- **Email:** aaqibhafeezkhan@gmail.com
-- **GitHub:** https://github.com/Aaqibhafeezkhan
+---
 
-> Full-stack engineer focused on building reliable systems across frontend, backend, cloud and AI.
+<p align="center">
+  <i>Building reliable systems across frontend, backend, cloud and AI.</i>
+</p>
